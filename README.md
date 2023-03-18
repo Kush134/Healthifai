@@ -40,10 +40,10 @@ With this as context, we plan to tackle the **Provider Shortage & Burnout** and 
 ---
 
 ### App Tryout Link 🔗
-👉  [**https://healthifai-with.tech**](https://healthifai-with.tech)  [Deployed on Vercel ▲ & Backend deployed on **Linode**]
+👉  [**https://healthifai-with.tech/login**](https://healthifai-with.tech/login)  [Deployed on Vercel ▲ & Backend deployed on **Linode**]
 
 - Frontend (Vercel URI)
-- Backend (Linode URI) : https://urlx.vercel.app/backmain:5002
+- Backend (Linode URI) 
 
 ![image](https://user-images.githubusercontent.com/48355572/207323369-79fac574-6fb6-4aca-b531-16d7e8ac0919.png)
 
