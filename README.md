@@ -7,7 +7,7 @@
 ---
 
 ### What we built 🤗
-**HealthifAI** is a smart *Web application* built to provide *Seamless Healthcare solutions for Providers* & is fueled by [**Linode**](https://linode.com). 🏥⚕️
+**HealthifAI** is a smart *Web application* built to provide *Seamless Healthcare solutions for Providers* & is fueled by [**kandi kits**](https://kandi.openweaver.com/). 🏥⚕️
 
 ### Inspiration 💡
 **Healthcare** *is one of the most important and critical industries in the world*. Providing quality medical care to patients is essential, but it is often hindered by various challenges such as overburdened healthcare workers, lack of medical devices in rural areas, and administrative stress.
