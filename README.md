@@ -2,6 +2,7 @@
 ### Category Submission: 
 
 - **Hack & Solve** 🃏
+- **Designe & Solve** 🃏
 
 
 ---
