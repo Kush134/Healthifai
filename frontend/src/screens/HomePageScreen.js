@@ -54,6 +54,7 @@ function HomePageScreen() {
                                     </div>
 
                                     <div className="flex flex-col flex-1 justify-center items-start">
+                                    <h1 className="text-2xl font-semibold text-gray-300">Doctor management system</h1>
                                         <h1 className="text-2xl font-semibold text-gray-300">Hi, Dr. {doctorName}!</h1>
                                         <p className="text-lg text-gray-400">Let's look at your patients</p>
                                     </div>
