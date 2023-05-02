@@ -69,7 +69,7 @@ export const Landing = () => {
           <div className="max-w-6xl mx-auto px-4 sm:px-6">
             <div className="pt-10 pb-12 ">
               <div className="text-center pb-12 md:pb-16">
-                <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4 aos-init aos-animate" data-aos="zoom-y-out">Providing seamless solutions to <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-300 to-blue-600">healthcare providers</span></h1>
+                <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4 aos-init aos-animate" data-aos="zoom-y-out">Doctor management system and <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-300 to-blue-600">healthcare providers</span></h1>
                 <div className="max-w-3xl mx-auto">
                   <p className="text-xl text-gray-500 mb-8 aos-init aos-animate space-x-1" data-aos="zoom-y-out" data-aos-delay={150}>
                     <span>We tackle several key pain points in the healthcare industry and mainly help in</span>
